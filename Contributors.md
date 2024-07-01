@@ -1,7 +1,9 @@
 # Contributors 
 - [wrkean](https://github.com/wrkean) ...and to the next one
 - [Asmit singh bisht](https://github.com/Asmit-ctrl) *** going to be next revolutionary in tech industry ***
+- [Ritesh Singh](https://github.com/ritzzh) *** Do not go gentle into that good night, Rage, rage againt the dying of light ***
 - [Raghav Angra]
+- [Ndifon Titiana](https://github.com/N-TITIAN)
 - [Thu Rain Ko] 
 -[Shreya]
 - [PassionOverPain](https://github.com/PassionOverPain) **😎Anime + Games + Code #_Follow_ Me On this Journey**
@@ -12,11 +14,14 @@
 - [Wingyee He](https://github.com/KuKustudy) **This is Wingyee from Australia, lets GOOOO**
 - [Aman Kumar]-Yeah!!done with my first contribution lets see whats next 
 - [Daniel Osojnik] (https://github.com/zabooz/)
+- [Lawior]
 - [Flimmers]!!!!
 - [Shashank](https://github.com/shshaank)**making my first contribution ever🫂**
 - [Amit kumar] (https://github.com/amitkrmaurya09) ----Hi-----
+- [rishabh-sarang] yo
 - [Gemini Lo](https://github.com/geminixmemory) **Hi I'm Gemini fm HK, welcome any connection**
 - [Oscar McGlone](https://github.com/oscarmcgl) **hey, I'm Oscar**
+- [Shashank](https://github.com/shshaank) **hey, this is my second pr**
 - [SrinidhiPS11](https://github.com/SrinidhiPs11)**Small step for man, Big step for mankind.**
 - [Ajmal Ras](https://github.com/Dynopro) `I will make a valuable contribution to the open source project by meticulously documenting all the bugs I introduce.`🤞
 - [Sandip Kumar Dey](https://github.com/sandipkumardey) **Hey! This is my first contribution**
@@ -1932,6 +1937,7 @@ Kencham Vinay
 -[Anita Dennis](https://github.com/anitadenn)
 -[Dhruv](https://github.com/dhruv1397)
 -[Moe Sidibeh](https://github.com/kkonteh97)
+-[Travis Mouna](https://github.com/TravisM74)
 -[Doddi Shiva](https://github.com/shiva0500)
 -[Alan Winters](https://github.com/winters-ag)
 -[Yuncheol Kwak](https://github.com/YunDo-Gi)
@@ -4866,6 +4872,7 @@ LadegbayeStella)
 - [louis Gituhi] (https://github.com/louisgituhi)
 - [Cat](https://github.com/Zeddex)
 - [Lava558](https://github.com/lava558)
+- [Siddhant385](https://github.com/siddhant385)
 - [Jawad Saeed](https://github.com/Jawamegamind)
 - [Aryan Mittal](https://github.com/Rishu2023)
 - [H4rz](https://github.com/h4rz)
@@ -5961,6 +5968,7 @@ Hector
 - [l3inapo](https://github.com/l3inapo/) **Started my Contribution**
 - [1wyl](https://github.com/1wyl) **This is my first contribution!**
 - [SayasCampos](https://github.com/SayasCampos) _This is my first contribution on opensource code!_ 
+- [alanlenisa](https://github.com/alanlenisa) *** This is me first contribution***
 - [rapanuti](https://github.com/rapanuti) _This is my first contribution on opensource code!_ 
 - [Lukasz Gamza](https://github.com/Lukasz871)
 - [Crystel Ratsimbazafy](https://github.com/crystel1996): **Hello world! Have a good day. This is my first contribution.**
@@ -6009,6 +6017,7 @@ Hector
 - [Nathan Sodja](https://github.com/NateOs)
 - [Sheela Aprameya]
 - [zeekbyte](https://github.com/zeekbyte)
+- [Faizah Farzana](https://github.com/faizahfarzana) **Starting my open source journey!**
 - [Mahir Daiyan](https://github.com/RealMDaiyan)
 - [ivanreeve](https://github.com/ivanreeve)
 - [lucas] (https://github.com/lucas-low/) `just having weird fun in github giant list at the end been working in gitlab for too long`
@@ -6016,3 +6025,7 @@ Hector
 - [m-kicherov](https://github.com/m-kicherov) **Hello World**
 - [kikki](https://github.com/kikki1992) **first contrubutions**
 - [matt](https://github.com/matt-the-thew) **Buckle Up!** Here to squash bugs and build cool stuff
+- [Vinita](https://github.com/VINITASUTHAR) 
+- [Naufaldi](https://github.com/naufalD) **yippee**
+- [Ronnie] (https://github.com/MonsieurRadiant) **start now**
+- [MiGao](https://github.com/migaox) **my first contributions**
