@@ -1,5 +1,8 @@
 # Contributors
+- Hello My name is Preston Mayieka (https://github.com/preston176)
+- Hello i am Dorin.
 - This is the beta testing.
+- Hello I'm Suzzie{wanjicode}
 - Hello i am Jzz.
 - Hi I am Alex Maxwell.
 - Hi i am fazil !!(https://github.com/MuhammedFazilPc)
@@ -8,8 +11,10 @@
 - Hi, I'm Brian Casio (https://github.com/briancasio)
 - Hi everyone! I am Onur (https://github.com/onurerdinc) this is my first contribution to the Open Source. 
 - Hi iam Chiru !!
+- Hi iam james ngandu ! (https://github.com/jmngandu)
 - Hi i am Watiri
 - Hi i am Algo
+- Hi i am నిRमல் (https://github.com/NirmalPuttamon)
 - Hi i am Itachi Uchiha
 - Hi, this is Arun!
 - Hi I am Shahnwaz Khan!!! (https://github.com/khanshahnwaz/)
@@ -22,6 +27,7 @@ Hello! I am mn121mn121. First time trying.. ^_^
 - Hi! Greetings from Joel
 - Hi I am 주영준!!! (https://github.com/jooladen)
 - Hi! I am Snehit !!!
+- Hello I'm Stan ;)
 - Hi! [Francisco Proboste](https://www.linkedin.com/in/francisco-proboste/) from Chile 🇨🇱 🏞️
 - ¡Hola, soy Juanlu, y estoy emocionado de hacer mi primera contribución!
 - Hi folks! I'm glad to be part of this huge contributing community. [[[ Cheers from EGYPT ]]]
@@ -184,6 +190,7 @@ Hi am [Jambong Ralpher](https://github.com/Jambong-Ralpher).Love to connect with
 - Hey! I'm Sunil, starting this shit now
 - Hello! I'm Jisol! 
 - Hello! Sumukh beaming in!
+- Hi i am Luna Hacks
 - Hey I am Abhinav and this is my introduction to the world of open-source!
 - This is Pankaj Kumar Pandit, starting my contribution journey.
 - This is Kratharth and here is my first open source contribution.
@@ -269,6 +276,7 @@ Thisarani Gunathilaka
 - Hi I am Batman.
 - Hi I am Spiderman. 
 - Hi, I'm [Fred] and this is my **first-contribution** !!
+- Heyyy, I'm Palina. Nice to meet you all!
 - Holaaa, my name is Satyam, not here for my first contribution. just a compulsion.
 - Hi eveyone I am Rahul this is my first ever open soure contribution and definitely not my last. Here's my GitHub [Rahul](https://github.com/RahulHarihar)
 - Hey I'm Palozz
@@ -822,7 +830,8 @@ Zipi Asrin
 - [Aditya Rajput](https://github.com/Adiyta-rajput200) **Its my first contribution but not the last,Here to start the new World Aditya Rajput form Bihar,India**
 - [Israel Rivas](https://github.com/ILRivas) **Hello World!**
 - [Ofek Tal](https://github.com/kafuexe) **hio**
-- [vamshi] **Jai Maahishmati**
+- [vamshi] **Jai Maahishmati** 
+- [Aman Rai](https://github.com/Amanrai2004)**Hello Thanks**
 - [aniruddha chaudhari](https://github.com/aniruddha-chaudhari)**Hello Thanks For This,really appreciate it**
 - [Landons C](https://github.com/PequenoCoder)
 - [Nang Win Myat Thiri Han](https://github.com/WinMyatThiriHan)
@@ -2196,6 +2205,7 @@ Esta es mi primera contribucion por parte de la URC
 - [Mohamed Awwad](https://github.com/university27) **Dude You Did It :)**😇😍
 - [Louis Simpson] (https://github.com/Louis-Simpson) Hello all!  
 - Devjit [devjit-sarkar](https://github.com/devjit-sarkar) My first contribution to an open-source repo! Thanks!
+- Yo this is Ridhwan
 - [Enrico Piffer](https://github.com/enrypiff) - Check out my contributions!
 - [krishealty](https://github.com/krishealty) **i bet you wont find a more detailed readme file than mine.**
 - [Reyas-addy](https://github.com/rewyekha) **Nothing to Anything🫵🏼**
@@ -6129,6 +6139,7 @@ Parthiv Saikia
 - [Adilet Baimyrza](https://github.com/AdiletBaimyrza)
 - [LionKang](https://github.com/Lion-Kang)
 - [Tsveto](https://github.com/Sclipper)
+- zcvpxz
 Alexander
 Cheeto Lord
 - [salaminipples](https://github.com/salaminipples)
@@ -8941,6 +8952,7 @@ Didac Vilarnau
 - Hi, I'm [Elisabeth Erkekoglou](https://github.com/elic4vet) I come from Athens, Greece and this is one of my first open source contributions.
 - Greetings, I'm [montyplexer](https://github.com/montyplexer). **Keep at it, don't give up!**
 - Hi, I'm [Muhammad Maaz](https://github.com/MuhammadMaazFaisal) I'm from Pakistan and this is my first open source contribution.
+- [John Otienoh](https://github.com/john-otienoh) this is my first open source contribution.
 - Hi, I'm [Cheyenne Plutchak](https://github.com/cplutchak) This is my first open source contribution.
 - Hi, I'm [RP](https://github.com/RishitPrabhu) I am participating in Hacktoberfest.
 - echo "Hello World I am [Pratyush Vel Shankar](https://github.com/pratyushV-l), This is my second open source contribution, with my first being in the same repo!"
